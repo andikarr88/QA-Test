@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10216" started-at="2021-08-27T21:16:51 ICT" finished-at="2021-08-27T21:17:01 ICT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10216" started-at="2021-08-27T21:16:51 ICT" finished-at="2021-08-27T21:17:01 ICT">
+      <class name="example.avanatest.LoginTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:example.avanatest.LoginTest@15d0c81b]" name="beforeTest" is-config="true" duration-ms="2755" started-at="2021-08-27T21:16:51 ICT" finished-at="2021-08-27T21:16:53 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="login()[pri:1, instance:example.avanatest.LoginTest@15d0c81b]" name="login" duration-ms="7405" started-at="2021-08-27T21:16:53 ICT" finished-at="2021-08-27T21:17:01 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:example.avanatest.LoginTest@15d0c81b]" name="afterTest" is-config="true" duration-ms="1" started-at="2021-08-27T21:17:01 ICT" finished-at="2021-08-27T21:17:01 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- example.avanatest.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
